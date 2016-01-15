@@ -1,4 +1,4 @@
-# Right Click Fix for Mac OS X
+# Chrome Extension - Right Click Fix for Mac OS X
 
 This is an extension for Chrome on Mac OS X. The Mac version of Chrome will, by default, auto select text when you right click on it. This is very annoying for Web Developers who often right click on text in order to use the Dev Tools inspection functionality. 
 
