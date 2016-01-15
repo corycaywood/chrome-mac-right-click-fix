@@ -1,0 +1,12 @@
+{
+  "name": "Right Click Fix for Mac OS X",
+  "version": "0.1",
+  "description": "Disables auto selecting text when you right click on a Mac.",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["fix-right-click.js"]
+    }
+  ],
+  "manifest_version": 2
+}
